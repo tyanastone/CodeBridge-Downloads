@@ -69,6 +69,7 @@ Download Git for Mac
 Run `git --version` in your terminal, this will show you what version of Git is running. Your computer should return something greater than or equal to `2.10.1`
 ## Git Bash
 If you're a Windows user,install Git Bash, an environment that allows you to use Bash like a Mac user would. If you have a mac or linux skip this step. This should install Git as well. [Git bash website](https://git-scm.com/)
+
 | steps       | images         | 
 | ------------- |:-------------:|
 |Step 1![](images/step1.png) | Step 2![](images/step2.png) |
