@@ -70,7 +70,7 @@ Run `git --version` in your terminal, this will show you what version of Git is 
 ## Git Bash
 If you're a Windows user,install Git Bash, an environment that allows you to use Bash like a Mac user would. If you have a mac or linux skip this step. This should install Git as well. [Git bash website](https://git-scm.com/)
 
-| steps       | images         | 
+| steps w/images      | steps w/images         | 
 | ------------- |:-------------:|
 |Step 1![](images/step1.png) | Step 2![](images/step2.png) |
 |Step 3![](images/step3.png) | Step 4![](images/step4.png)|
