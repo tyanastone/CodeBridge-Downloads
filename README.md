@@ -121,5 +121,6 @@ Spectacle gives you the ability to move your windows around quickly so you're no
 # Optional: Command-Line Helpers with Bash-It
 [Bash-It](https://github.com/Bash-it/bash-it). Bash-it is a collection of a lot of different scripts and tools to help you be a more effective developer.  It includes helpers that keep track of git, provide more colors, and is highly customizable. Run both lines in terminal.  
 `$ git clone --depth=1 https://github.com/Bash-it/bash-it.git ~/.bash_it`
+
 `$ ~/.bash_it/install.sh --silent`
 *Don't include dollar signs*
